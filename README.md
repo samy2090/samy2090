@@ -62,6 +62,8 @@ Skilled in **PHP, Laravel, RESTful API design**, database optimization, and perf
 ---
 ## 📈 GitHub Stats
 [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=samy2090)](https://github.com/pranesh-2005/github-readme-stats-fast)
+
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=samy2090&layout=donut-vertical)](https://github.com/Pranesh-2005/github-readme-stats)
 ## Currently Exploring
 
 - Advanced Angular architecture and performance optimization
@@ -74,7 +76,7 @@ Skilled in **PHP, Laravel, RESTful API design**, database optimization, and perf
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=samy2090&theme=dark&hide_border=false" height="300" />
+  [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=samy2090)](https://github.com/pranesh-2005/github-readme-stats-fast)
 </div>
 
 ---
