@@ -36,7 +36,28 @@ Skilled in **PHP, Laravel, RESTful API design**, database optimization, and perf
 </div>
 
 ---
+### Architecture & Technologies
 
+- Clean Architecture
+- SOLID Principles
+- Domain-Driven Design (DDD)
+- Design Patterns
+- Microservices
+- Monolithic Applications
+- Multi-Tenant SaaS
+- REST APIs
+- GraphQL
+- WebSockets
+- Socket.IO
+- JWT Authentication
+- OAuth 2.0
+- CI/CD
+- System Design
+- Performance Optimization
+- Database Design
+- Cloud-Native Applications
+
+---
 ## 📊 GitHub Stats
 
 <div align="center">
