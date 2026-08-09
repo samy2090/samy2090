@@ -1,7 +1,8 @@
 <div align="center">
 
 # 👋 Hi, I'm Ahmed Samy
-<h3>Full Stack Web Developer | PHP | Laravel | React.js</h3>
+![Header image](https://raw.githubusercontent.com/samy2090/samy2090/master/assets/Github_header.png)
+<h3>Full Stack Engineer | PHP | Laravel | React.js</h3>
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
