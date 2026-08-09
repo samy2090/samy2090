@@ -45,13 +45,19 @@ PHPUnit testing, RTL localization, continuous deployment pipelines, and SOLID / 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" title="Composer" />
   <img src="https://cdn.simpleicons.org/drupal/0678BE" height="40" title="Drupal" />
-</div>
+</div> 
+</br>
+</br>
 
 
+
+
+  
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 ---
 
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+
 
   
 ### Architecture & Technologies
