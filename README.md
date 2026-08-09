@@ -61,7 +61,7 @@ Skilled in **PHP, Laravel, RESTful API design**, database optimization, and perf
 
 ---
 ## 📈 GitHub Stats
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=samy2090)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=samy2090&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=samy2090&layout=donut-vertical)](https://github.com/Pranesh-2005/github-readme-stats)
 ## Currently Exploring
