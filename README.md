@@ -3,21 +3,27 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
-
+<h3 align="center">Full Stack Web Developer | PHP | Laravel | React.js</h3>
 ## 🌐 Connect with Me
+
+
+
+<div align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samy2090) : https://linkedin.com/in/samy2090
 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samydev88@gmail.com) : mailto:samydev88@gmail.com
 
-<h3 align="center">Full Stack Web Developer | PHP | Laravel | React.js</h3>
 
----
+
+</div>
+
 
 ## 🔹 About Me
 Experienced in building **robust, scalable platforms** for enterprise and government projects across **education, B2B, and e-commerce**.  
 Skilled in **PHP, Laravel, RESTful API design**, database optimization, and performance tuning. Passionate about writing **clean, maintainable code** and building **impactful digital solutions**.  
 
----
+
 
 ## 🛠 Languages & Tools
 <div class='icons' >
@@ -40,49 +46,35 @@ Skilled in **PHP, Laravel, RESTful API design**, database optimization, and perf
 ---
 ### Architecture & Technologies
 
-- Clean Architecture
-- SOLID Principles
-- Domain-Driven Design (DDD)
-- Design Patterns
 - Microservices
 - Monolithic Applications
-- Multi-Tenant SaaS
-- REST APIs
+- SOLID & DRY Principles
+- Design Patterns
+- Clean Architecture
+- SaaS
+- RESTful APIs
 - GraphQL
 - WebSockets
 - Socket.IO
 - JWT Authentication
 - OAuth 2.0
-- CI/CD
+- CI/CD Pipeline
 - System Design
 - Performance Optimization
 - Database Design
-- Cloud-Native Applications
-
 ---
-## 📈 GitHub Stats
-
-
-<div align="center">
-  [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=samy2090&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
-</div>
-
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=samy2090&layout=donut-vertical)](https://github.com/Pranesh-2005/github-readme-stats)
-## Currently Exploring
-
-- Advanced Angular architecture and performance optimization
-- Cloud-native applications on AWS
-- AI integration for modern web applications
-- Event-driven architectures
-- High-performance backend systems with NestJS
 
 ---
 ## 📊 GitHub Stats
 
-<div align="center">
-  [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=samy2090)](https://github.com/pranesh-2005/github-readme-stats-fast)
-</div>
 
+<div align="center">
+
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=samy2090&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
+
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=samy2090&layout=donut-vertical&theme=radical)](https://github.com/Pranesh-2005/github-readme-stats)
+
+</div>
 ---
 
 ## 🔝 Top Contributed Repos
