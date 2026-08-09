@@ -87,12 +87,6 @@ PHPUnit testing, RTL localization, continuous deployment pipelines, and SOLID / 
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=samy2090&layout=donut-vertical&theme=radical)](https://github.com/Pranesh-2005/github-readme-stats)
 
 </div>
----
-
-## 🔝 Top Contributed Repos
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=samy2090&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</div>
 
 ---
 ## 🌐 Connect with Me
