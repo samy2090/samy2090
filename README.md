@@ -1,9 +1,11 @@
-# 👋 Hi, I'm Ahmed Samy
+<div align="center">
 
+# 👋 Hi, I'm Ahmed Samy
+<h3>Full Stack Web Developer | PHP | Laravel | React.js</h3>
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
-<h3 align="center">Full Stack Web Developer | PHP | Laravel | React.js</h3>
+
 ## 🌐 Connect with Me
 
 
@@ -20,14 +22,16 @@
 
 
 ## 🔹 About Me
-Experienced in building **robust, scalable platforms** for enterprise and government projects across **education, B2B, and e-commerce**.  
-Skilled in **PHP, Laravel, RESTful API design**, database optimization, and performance tuning. Passionate about writing **clean, maintainable code** and building **impactful digital solutions**.  
+
+Full-Stack Engineer with 5+ years delivering enterprise, government-scale, and SaaS platforms across education, B2B, and e-commerce. Builds 
+REST APIs, drives performance optimization, and secures multi-role access systems using PHP (Laravel) and React. Applies Redis caching, 
+PHPUnit testing, RTL localization, continuous deployment pipelines, and SOLID / Repository architecture for secure, maintainable systems.  
 
 
 
 ## 🛠 Languages & Tools
-<div class='icons' >
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" title="PHP" />
+<div class='icons' align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" title="PHP" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" title="Laravel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React.js" />
@@ -39,30 +43,37 @@ Skilled in **PHP, Laravel, RESTful API design**, database optimization, and perf
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" title="Postman" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" title="Composer" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" title="Firebase" />
   <img src="https://cdn.simpleicons.org/drupal/0678BE" height="40" title="Drupal" />
 </div>
 
+
+
 ---
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+
+  
 ### Architecture & Technologies
 
-- Microservices
-- Monolithic Applications
-- SOLID & DRY Principles
-- Design Patterns
-- Clean Architecture
-- SaaS
-- RESTful APIs
-- GraphQL
-- WebSockets
-- Socket.IO
-- JWT Authentication
-- OAuth 2.0
-- CI/CD Pipeline
-- System Design
-- Performance Optimization
-- Database Design
----
+<p style="font-size: 12px;">
+ Microservices<br>
+ Monolithic Applications<br>
+ SOLID & DRY Principles<br>
+ Design Patterns<br>
+ Clean Architecture<br>
+ SaaS<br>
+ RESTful APIs<br>
+ GraphQL<br>
+ WebSockets<br>
+ Socket.IO<br>
+ JWT Authentication<br>
+ OAuth 2.0<br>
+ CI/CD Pipeline<br>
+ System Design<br>
+ Performance Optimization<br>
+ Database Design<br>
+</p>
+
 
 ---
 ## 📊 GitHub Stats
@@ -85,3 +96,5 @@ Skilled in **PHP, Laravel, RESTful API design**, database optimization, and perf
 ---
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samy2090) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samydev88@gmail.com)
+
+</div
