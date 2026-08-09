@@ -58,6 +58,18 @@ Skilled in **PHP, Laravel, RESTful API design**, database optimization, and perf
 - Cloud-Native Applications
 
 ---
+## 📈 GitHub Stats
+![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=samy2090&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samy2090&layout=compact&theme=radical)
+## Currently Exploring
+
+- Advanced Angular architecture and performance optimization
+- Cloud-native applications on AWS
+- AI integration for modern web applications
+- Event-driven architectures
+- High-performance backend systems with NestJS
+
+---
 ## 📊 GitHub Stats
 
 <div align="center">
